@@ -1,0 +1,27 @@
+{
+  "name": "desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t07",
+  "version": "1.0.0",
+  "description": "![](https://i.imgur.com/xG74tOh.png)",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoaraujosantos/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t07.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoaraujosantos/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t07/issues"
+  },
+  "homepage": "https://github.com/rodrigoaraujosantos/desafio-backend-modulo-02-sistema-bancario-b2b-ifood-t07#readme",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
